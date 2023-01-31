@@ -1,0 +1,9 @@
+node_modules/
+cache/
+crashdumps/
+data/
+modules/
+resources/test/dist/
+*.exe
+package-lock.json
+*.log

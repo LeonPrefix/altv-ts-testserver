@@ -1,0 +1,11 @@
+announce = false
+description = 'Minimal alt:V Testing Setup'
+gamemode = 'Freeroam'
+host = '0.0.0.0'
+language = 'de'
+modules = [ 'js-module' ]
+name = 'Test'
+players = 128
+port = 7788
+resources = [ 'chat', 'freeroam', 'test' ]
+debug = true
